@@ -1,0 +1,26 @@
+
+
+
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: solid 3px black;
+    height: 70%;
+    text-align: center;
+    /* width: 20%; */
+}
+
+
+.img{
+    width: 100%;
+    height: 80%;
+}
+
+.view{
+    width: 100%;
+}
+
+.view:hover{
+    cursor: pointer;
+}

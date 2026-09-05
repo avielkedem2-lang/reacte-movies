@@ -1,0 +1,15 @@
+
+
+.title-movies{
+    padding-left:10px ;
+}
+
+.search{
+    border-radius: 10px 10px;
+    border: solid rgb(49, 49, 174);
+}
+
+
+.search:hover{
+    border: solid 3px rgb(35, 35, 215);;
+}
